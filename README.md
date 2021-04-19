@@ -6,17 +6,17 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 ## Results
 * How many Vine reviews and non-Vine reviews were there?
 
-![paid_vine_reviews]() ![unnpaid_vine_reviews]()
+![paid_vine_reviews](https://github.com/hayden0098/Amazon_Vine_Analysis/blob/main/screenshot/paid_vine_reviews.jpg) ![unnpaid_vine_reviews](https://github.com/hayden0098/Amazon_Vine_Analysis/blob/main/screenshot/unpaid_vine_reviews.jpg)
 
 There are 94 reviews as Vine reviews, and 40471 as non-Vine reviews that the helpful_votes percentage is equal or greater than 50%. 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-![paid_5star_reviews]() ![unpaid_5star_reviews]()
+![paid_5star_reviews](https://github.com/hayden0098/Amazon_Vine_Analysis/blob/main/screenshot/paid_5star_reviews.jpg) ![unpaid_5star_reviews](https://github.com/hayden0098/Amazon_Vine_Analysis/blob/main/screenshot/unpaid_5star_reviews.jpg)
 
 There are 48 reviews as Vine reviews, and 15663 as non-Vine reviews that were 5 stars and has helpful_votes percentage is equal or greater than 50%.
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![Vine_Review_Analysis_df]()
+![Vine_Review_Analysis_df](https://github.com/hayden0098/Amazon_Vine_Analysis/blob/main/screenshot/vince_review_analysis.jpg)
 
 From the data which their helpful_votes percentage is equal or greater than 50% and also the reviews were 5 stars, Vine reviews has the 51.06% of data is 5 stars and non-Vine reviews has the 38.7% of data is 5 star.
 
